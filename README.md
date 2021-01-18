@@ -1,7 +1,7 @@
 #Webiste live URL
 https://yami-restaurant.netlify.app/
 
-#Technologies used in this project
+#Technologies used in this project: 
 React,
 React Router,
 React Icons,
